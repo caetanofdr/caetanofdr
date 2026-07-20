@@ -20,6 +20,15 @@ Meu nome é Caetano Facco da Rosa
 
 ---
 
+---
+
+## Estatísticas
+
+![Caetano's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default)
+
+---
+
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caetanofdr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanofdr/)
