@@ -12,6 +12,14 @@ Meu nome é Caetano Facco da Rosa
 
 ---
 
+## Linguagens de programação que eu sei
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caetanofdr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanofdr/)
