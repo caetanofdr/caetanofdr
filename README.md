@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, tudo bem? 👋
 
-<!--
-**caetanofdr/caetanofdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caetano Facco da Rosa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 📚 Atualmente no 2° semestre de Ciência da Computação na Universidade Federal de Santa Maria (UFSM)
+- 🎓 Técnico em Informática pelo Instituto Federal Farroupilha - campus Júlio de Castilhos (IFFar JC)
+- 💻 Estudando com foco em desenvolvimento de software
+
+---
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-caetanofdr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanofdr/)
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-0033a0?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/2825186813491282)
