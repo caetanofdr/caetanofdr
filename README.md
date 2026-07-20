@@ -24,8 +24,8 @@ Meu nome é Caetano Facco da Rosa
 
 ## Estatísticas
 
-![Caetano's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=default)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default)
+![Caetano's GitHub stats](https://github-readme-stats.vercel.app/api?username=caetanofdr&show_icons=true&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caetanofdr&layout=compact&theme=dark)
 
 ---
 
