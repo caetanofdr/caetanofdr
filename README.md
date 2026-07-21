@@ -23,6 +23,7 @@ Meu nome é Caetano Facco da Rosa
 ## ☕ Sobre mim
 - Gosto bastante de café;
 - Gosto de deixar as coisas organizadas;
+- Meus hobbies favoritos são jogos eletrônicos e literatura;
 - Adepto ao minimalismo;
 
 ---
