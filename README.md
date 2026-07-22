@@ -36,6 +36,12 @@ Meu nome é Caetano Facco da Rosa
 ---
 
 ## 🌐 Links
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caetanofdr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caetanofdr/)
 [![Lattes](https://img.shields.io/badge/Currículo-Lattes-0033a0?style=flat&logo=academia&logoColor=white)](http://lattes.cnpq.br/2825186813491282)
+[![Email](https://img.shields.io/badge/Email-facco.caetano%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:facco.caetano@gmail.com)
+
+---
+
+## 💬 Contato
+- Prefiro contato por e-mail (badge acima);
+- Caso envie mensagens por outros lugares, posso acabar não vendo e não respondendo;
